@@ -3,7 +3,7 @@
     <title>Daniel&#x27;s Blog</title>
     <link href="https://danielbatesj.github.io/Publii-Blogs/feed.xml" rel="self" />
     <link href="https://danielbatesj.github.io/Publii-Blogs" />
-    <updated>2022-04-21T12:59:44-05:00</updated>
+    <updated>2022-04-21T13:47:01-05:00</updated>
     <author>
         <name>Daniel Bates</name>
     </author>
@@ -33,7 +33,7 @@
             <category term="Responder"/>
             <category term="HttpResponse"/>
 
-        <updated>2022-04-21T12:59:44-05:00</updated>
+        <updated>2022-04-21T13:47:01-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://danielbatesj.github.io/Publii-Blogs/media/posts/2/logo.webp" alt="" />
@@ -97,7 +97,9 @@
 <figure class="post__image"><img loading="lazy"  src="https://danielbatesj.github.io/Publii-Blogs/media/posts/2/Screen-Shot-2022-04-21-at-10.09.42-AM.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://danielbatesj.github.io/Publii-Blogs/media/posts/2/responsive/Screen-Shot-2022-04-21-at-10.09.42-AM-xs.png 300w ,https://danielbatesj.github.io/Publii-Blogs/media/posts/2/responsive/Screen-Shot-2022-04-21-at-10.09.42-AM-sm.png 480w ,https://danielbatesj.github.io/Publii-Blogs/media/posts/2/responsive/Screen-Shot-2022-04-21-at-10.09.42-AM-md.png 768w ,https://danielbatesj.github.io/Publii-Blogs/media/posts/2/responsive/Screen-Shot-2022-04-21-at-10.09.42-AM-lg.png 1024w ,https://danielbatesj.github.io/Publii-Blogs/media/posts/2/responsive/Screen-Shot-2022-04-21-at-10.09.42-AM-xl.png 1360w ,https://danielbatesj.github.io/Publii-Blogs/media/posts/2/responsive/Screen-Shot-2022-04-21-at-10.09.42-AM-2xl.png 1600w"  alt="" width="1080" height="584"></figure>
 <p>Obviously, you can construct your own <a href="https://actix.rs/actix-web/actix_web/struct.HttpResponse.html">HttpReponse</a> as well. This method requires a lot of boiler-plate code when it comes to handling Error cases. As your project grows, you will probably want to avoid this method.</p>
 <figure class="post__image"><img loading="lazy"  src="https://danielbatesj.github.io/Publii-Blogs/media/posts/2/Screen-Shot-2022-04-21-at-10.33.15-AM.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://danielbatesj.github.io/Publii-Blogs/media/posts/2/responsive/Screen-Shot-2022-04-21-at-10.33.15-AM-xs.png 300w ,https://danielbatesj.github.io/Publii-Blogs/media/posts/2/responsive/Screen-Shot-2022-04-21-at-10.33.15-AM-sm.png 480w ,https://danielbatesj.github.io/Publii-Blogs/media/posts/2/responsive/Screen-Shot-2022-04-21-at-10.33.15-AM-md.png 768w ,https://danielbatesj.github.io/Publii-Blogs/media/posts/2/responsive/Screen-Shot-2022-04-21-at-10.33.15-AM-lg.png 1024w ,https://danielbatesj.github.io/Publii-Blogs/media/posts/2/responsive/Screen-Shot-2022-04-21-at-10.33.15-AM-xl.png 1360w ,https://danielbatesj.github.io/Publii-Blogs/media/posts/2/responsive/Screen-Shot-2022-04-21-at-10.33.15-AM-2xl.png 1600w"  alt="" width="818" height="408"></figure>
-<p> </p>
+<h2>Summary</h2>
+<p>I hope this blog was helpful if you're looking into starting an actix_web project. If I made any bone-headed mistakes, feel free to send me an email @ <a href="mailto:DanielBatesJ@gmail.com">DanielBatesJ@gmail.com</a>.</p>
+<p>The code examples are up on my <a href="https://github.com/DanielBatesJ/actix_routing_tests" target="_blank" rel="noopener">GitHub</a>.</p>
             ]]>
         </content>
     </entry>

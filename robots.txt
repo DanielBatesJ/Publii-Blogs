@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://danielbatesj.github.io/Publii-Blogs/sitemap.xml
